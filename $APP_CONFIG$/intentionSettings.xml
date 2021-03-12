@@ -1,0 +1,6 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="JavaScript/Declaration/Split declaration and initialization" />
+    <ignoreAction name="JavaScript/ECMAScript 6/Replace destructuring with property and index access" />
+  </component>
+</application>
