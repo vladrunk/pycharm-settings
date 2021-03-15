@@ -1,0 +1,9 @@
+<toolSet name="Redis">
+  <tool name="Redis Server" description="Redis server for Celery [windows]" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="F:\Файлы\Coding\Redis-x64-3.2.100\redis-server.exe" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="F:/Файлы/Coding/Redis-x64-3.2.100" />
+    </exec>
+  </tool>
+</toolSet>
