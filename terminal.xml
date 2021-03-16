@@ -1,7 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
     <option name="myCloseSessionOnLogout" value="false" />
-    <option name="myCopyOnSelection" value="true" />
-    <option name="myTabName" value="Local" />
+    <option name="myTabName" value="Terminal" />
   </component>
 </application>

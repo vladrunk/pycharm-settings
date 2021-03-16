@@ -1,0 +1,8 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="Terminal.RenameSession">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="TerminalSplitActionBase$Vertical">
+    <keyboard-shortcut first-keystroke="shift alt v" />
+  </action>
+</keymap>
